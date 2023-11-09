@@ -1,0 +1,14 @@
+C:\Primeiro_Período__\FP\Lista preparação\02\obj\Debug\net7.0\02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Primeiro_Período__\FP\Lista preparação\02\obj\Debug\net7.0\02.AssemblyInfoInputs.cache
+C:\Primeiro_Período__\FP\Lista preparação\02\obj\Debug\net7.0\02.AssemblyInfo.cs
+C:\Primeiro_Período__\FP\Lista preparação\02\obj\Debug\net7.0\02.csproj.CoreCompileInputs.cache
+C:\Primeiro_Período__\FP\Lista preparação\02\bin\Debug\net7.0\02.exe
+C:\Primeiro_Período__\FP\Lista preparação\02\bin\Debug\net7.0\02.deps.json
+C:\Primeiro_Período__\FP\Lista preparação\02\bin\Debug\net7.0\02.runtimeconfig.json
+C:\Primeiro_Período__\FP\Lista preparação\02\bin\Debug\net7.0\02.dll
+C:\Primeiro_Período__\FP\Lista preparação\02\bin\Debug\net7.0\02.pdb
+C:\Primeiro_Período__\FP\Lista preparação\02\obj\Debug\net7.0\02.dll
+C:\Primeiro_Período__\FP\Lista preparação\02\obj\Debug\net7.0\refint\02.dll
+C:\Primeiro_Período__\FP\Lista preparação\02\obj\Debug\net7.0\02.pdb
+C:\Primeiro_Período__\FP\Lista preparação\02\obj\Debug\net7.0\02.genruntimeconfig.cache
+C:\Primeiro_Período__\FP\Lista preparação\02\obj\Debug\net7.0\ref\02.dll
